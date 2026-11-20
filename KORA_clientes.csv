@@ -1,0 +1,1351 @@
+﻿id_cliente,fecha_registro,ciudad,canal_adquisicion,preferencia_declarada
+C0001,2026-06-19,Bogotá,Redes sociales,Cuidado personal
+C0002,2026-05-25,Cali,Referidos,Papelería
+C0003,2025-12-01,Medellín,Orgánico,Deporte
+C0004,2026-09-09,Medellín,Referidos,Tecnología
+C0005,2026-08-08,Bogotá,Redes sociales,Tecnología
+C0006,2026-03-28,Bogotá,Búsqueda,Cuidado personal
+C0007,2025-12-04,Medellín,Redes sociales,Tecnología
+C0008,2026-07-24,Bogotá,Referidos,Deporte
+C0009,2026-07-27,Medellín,Redes sociales,Hogar
+C0010,2026-05-28,Medellín,Redes sociales,Hogar
+C0011,2026-05-05,Bogotá,Referidos,Cuidado personal
+C0012,2025-09-01,Bogotá,Búsqueda,Hogar
+C0013,2025-08-30,Bogotá,Orgánico,Hogar
+C0014,2025-12-06,Medellín,Referidos,Hogar
+C0015,2026-08-10,Cali,Búsqueda,Papelería
+C0016,2026-06-30,Bogotá,Búsqueda,Deporte
+C0017,2025-12-14,Barranquilla,Referidos,Cuidado personal
+C0018,2026-05-28,Bogotá,Búsqueda,Tecnología
+C0019,2026-08-16,Bogotá,Referidos,Tecnología
+C0020,2026-06-15,Bogotá,Búsqueda,Papelería
+C0021,2026-04-06,Medellín,Redes sociales,Hogar
+C0022,2026-01-31,Medellín,Referidos,Hogar
+C0023,2025-08-01,Bogotá,Redes sociales,Cuidado personal
+C0024,2026-08-05,Barranquilla,Redes sociales,Deporte
+C0025,2025-08-17,Medellín,Referidos,Hogar
+C0026,2025-09-20,Barranquilla,Redes sociales,Cuidado personal
+C0027,2025-12-24,Bogotá,Orgánico,Deporte
+C0028,2025-08-01,Bogotá,Redes sociales,Cuidado personal
+C0029,2026-04-28,Bogotá,Redes sociales,Deporte
+C0030,2026-01-08,Medellín,Búsqueda,Hogar
+C0031,2025-10-26,Medellín,Referidos,Tecnología
+C0032,2026-08-10,Medellín,Redes sociales,Cuidado personal
+C0033,2025-10-02,Cali,Búsqueda,Hogar
+C0034,2026-06-10,Medellín,Referidos,Papelería
+C0035,2026-08-16,Barranquilla,Redes sociales,Hogar
+C0036,2026-03-19,Medellín,Búsqueda,Deporte
+C0037,2026-08-29,Medellín,Redes sociales,Deporte
+C0038,2026-06-17,Bogotá,Referidos,Cuidado personal
+C0039,2026-03-19,Cali,Búsqueda,Hogar
+C0040,2025-09-06,Bogotá,Redes sociales,Papelería
+C0041,2026-04-28,Bogotá,Referidos,Tecnología
+C0042,2025-11-08,Cali,Redes sociales,Cuidado personal
+C0043,2026-03-07,Bogotá,Referidos,Hogar
+C0044,2026-09-12,Bogotá,Referidos,Deporte
+C0045,2025-08-19,Barranquilla,Referidos,Deporte
+C0046,2026-03-26,Cali,Referidos,Cuidado personal
+C0047,2026-01-10,Bogotá,Redes sociales,Papelería
+C0048,2026-04-09,Barranquilla,Redes sociales,Hogar
+C0049,2025-09-01,Barranquilla,Búsqueda,Cuidado personal
+C0050,2026-06-15,Bogotá,Redes sociales,Cuidado personal
+C0051,2025-09-14,Bogotá,Redes sociales,Hogar
+C0052,2025-12-18,Bogotá,Referidos,Papelería
+C0053,2025-12-02,Bogotá,Búsqueda,Deporte
+C0054,2025-10-18,Bogotá,Búsqueda,Tecnología
+C0055,2026-04-13,Bogotá,Búsqueda,Tecnología
+C0056,2026-01-26,Bogotá,Redes sociales,Cuidado personal
+C0057,2026-02-09,Bogotá,Referidos,Cuidado personal
+C0058,2026-07-01,Medellín,Redes sociales,Cuidado personal
+C0059,2025-10-31,Bogotá,Orgánico,Cuidado personal
+C0060,2026-03-13,Bogotá,Redes sociales,Deporte
+C0061,2026-02-08,Bogotá,Búsqueda,Deporte
+C0062,2025-11-11,Barranquilla,Búsqueda,Cuidado personal
+C0063,2026-04-19,Bogotá,Orgánico,Hogar
+C0064,2025-10-29,Barranquilla,Orgánico,Hogar
+C0065,2026-08-23,Medellín,Redes sociales,Papelería
+C0066,2026-02-15,Medellín,Referidos,Papelería
+C0067,2025-08-09,Medellín,Orgánico,Tecnología
+C0068,2026-08-19,Bogotá,Redes sociales,Hogar
+C0069,2026-08-14,Bogotá,Redes sociales,Deporte
+C0070,2026-01-16,Cali,Redes sociales,Hogar
+C0071,2025-10-01,Medellín,Orgánico,Hogar
+C0072,2025-09-12,Barranquilla,Búsqueda,Papelería
+C0073,2026-03-11,Barranquilla,Redes sociales,Papelería
+C0074,2025-08-26,Cali,Búsqueda,Cuidado personal
+C0075,2025-12-25,Barranquilla,Redes sociales,Tecnología
+C0076,2025-08-17,Bogotá,Redes sociales,Hogar
+C0077,2026-02-18,Cali,Búsqueda,Hogar
+C0078,2026-06-06,Barranquilla,Redes sociales,Tecnología
+C0079,2026-01-05,Bogotá,Redes sociales,Papelería
+C0080,2025-10-20,Cali,Búsqueda,Deporte
+C0081,2025-10-12,Bogotá,Referidos,Hogar
+C0082,2026-07-10,Bogotá,Redes sociales,Tecnología
+C0083,2026-03-08,Bogotá,Referidos,Cuidado personal
+C0084,2026-03-08,Medellín,Búsqueda,Tecnología
+C0085,2026-04-24,Bogotá,Búsqueda,Deporte
+C0086,2026-01-24,Medellín,Búsqueda,Hogar
+C0087,2026-06-21,Bogotá,Referidos,Hogar
+C0088,2026-05-22,Bogotá,Referidos,Deporte
+C0089,2026-07-15,Cali,Redes sociales,Tecnología
+C0090,2026-06-02,Medellín,Referidos,Hogar
+C0091,2026-02-19,Bogotá,Búsqueda,Hogar
+C0092,2026-01-26,Cali,Orgánico,Papelería
+C0093,2025-12-02,Bogotá,Referidos,Cuidado personal
+C0094,2026-05-05,Cali,Orgánico,Cuidado personal
+C0095,2025-10-17,Medellín,Redes sociales,Cuidado personal
+C0096,2026-02-02,Bogotá,Referidos,Tecnología
+C0097,2026-08-17,Barranquilla,Redes sociales,Papelería
+C0098,2026-02-17,Bogotá,Redes sociales,Hogar
+C0099,2026-09-09,Bogotá,Referidos,Cuidado personal
+C0100,2026-08-25,Medellín,Redes sociales,Hogar
+C0101,2026-08-02,Medellín,Orgánico,Deporte
+C0102,2026-07-17,Cali,Redes sociales,Tecnología
+C0103,2025-10-08,Medellín,Redes sociales,Papelería
+C0104,2025-08-10,Medellín,Referidos,Tecnología
+C0105,2025-12-21,Bogotá,Búsqueda,Papelería
+C0106,2025-08-15,Medellín,Búsqueda,Tecnología
+C0107,2026-07-15,Medellín,Redes sociales,Tecnología
+C0108,2026-04-09,Cali,Orgánico,Tecnología
+C0109,2025-09-02,Bogotá,Búsqueda,Hogar
+C0110,2026-07-14,Bogotá,Redes sociales,Papelería
+C0111,2026-08-03,Medellín,Orgánico,Papelería
+C0112,2026-04-03,Bogotá,Búsqueda,Papelería
+C0113,2026-08-26,Bogotá,Búsqueda,Tecnología
+C0114,2026-09-06,Bogotá,Redes sociales,Deporte
+C0115,2026-09-08,Medellín,Redes sociales,Hogar
+C0116,2026-07-19,Medellín,Redes sociales,Papelería
+C0117,2026-04-10,Bogotá,Orgánico,Tecnología
+C0118,2026-02-07,Medellín,Búsqueda,Cuidado personal
+C0119,2026-05-09,Bogotá,Orgánico,Cuidado personal
+C0120,2026-08-17,Medellín,Referidos,Deporte
+C0121,2026-03-05,Medellín,Redes sociales,Tecnología
+C0122,2026-05-15,Bogotá,Redes sociales,Papelería
+C0123,2025-10-09,Bogotá,Referidos,Tecnología
+C0124,2025-09-17,Bogotá,Redes sociales,Tecnología
+C0125,2026-05-06,Bogotá,Orgánico,Hogar
+C0126,2025-11-07,Bogotá,Redes sociales,Tecnología
+C0127,2025-12-22,Medellín,Redes sociales,Hogar
+C0128,2025-11-09,Bogotá,Búsqueda,Papelería
+C0129,2026-09-24,Bogotá,Búsqueda,Cuidado personal
+C0130,2026-05-21,Medellín,Referidos,Cuidado personal
+C0131,2026-09-22,Cali,Búsqueda,Hogar
+C0132,2025-12-21,Bogotá,Orgánico,Papelería
+C0133,2026-06-16,Bogotá,Búsqueda,Hogar
+C0134,2026-04-26,Bogotá,Redes sociales,Cuidado personal
+C0135,2026-06-29,Cali,Redes sociales,Deporte
+C0136,2026-01-11,Cali,Orgánico,Cuidado personal
+C0137,2026-03-28,Bogotá,Redes sociales,Deporte
+C0138,2025-08-05,Barranquilla,Búsqueda,Hogar
+C0139,2026-08-12,Medellín,Redes sociales,Hogar
+C0140,2026-01-15,Barranquilla,Redes sociales,Tecnología
+C0141,2026-04-21,Barranquilla,Búsqueda,Hogar
+C0142,2026-03-20,Medellín,Búsqueda,Deporte
+C0143,2025-09-03,Bogotá,Redes sociales,Tecnología
+C0144,2025-09-28,Bogotá,Redes sociales,Deporte
+C0145,2025-10-26,Bogotá,Redes sociales,Cuidado personal
+C0146,2025-11-21,Bogotá,Redes sociales,Tecnología
+C0147,2026-06-15,Bogotá,Redes sociales,Hogar
+C0148,2026-01-18,Cali,Orgánico,Deporte
+C0149,2026-09-09,Medellín,Referidos,Tecnología
+C0150,2025-09-13,Bogotá,Referidos,Hogar
+C0151,2026-07-22,Bogotá,Búsqueda,Hogar
+C0152,2025-09-27,Medellín,Redes sociales,Tecnología
+C0153,2026-06-25,Cali,Orgánico,Cuidado personal
+C0154,2026-01-12,Cali,Redes sociales,Tecnología
+C0155,2026-04-26,Bogotá,Orgánico,Tecnología
+C0156,2025-10-19,Medellín,Redes sociales,Hogar
+C0157,2026-08-25,Bogotá,Redes sociales,Hogar
+C0158,2026-03-23,Bogotá,Referidos,Hogar
+C0159,2026-01-19,Bogotá,Búsqueda,Tecnología
+C0160,2025-09-22,Bogotá,Redes sociales,Hogar
+C0161,2025-10-17,Bogotá,Redes sociales,Papelería
+C0162,2026-01-29,Cali,Redes sociales,Tecnología
+C0163,2025-12-26,Medellín,Referidos,Deporte
+C0164,2026-06-01,Bogotá,Búsqueda,Papelería
+C0165,2026-01-18,Cali,Redes sociales,Papelería
+C0166,2025-10-24,Cali,Redes sociales,Hogar
+C0167,2026-06-05,Bogotá,Orgánico,Tecnología
+C0168,2026-02-01,Medellín,Referidos,Tecnología
+C0169,2026-08-08,Bogotá,Referidos,Deporte
+C0170,2026-06-29,Cali,Búsqueda,Papelería
+C0171,2026-05-10,Medellín,Referidos,Tecnología
+C0172,2026-06-02,Bogotá,Búsqueda,Cuidado personal
+C0173,2025-08-06,Cali,Referidos,Cuidado personal
+C0174,2025-11-11,Bogotá,Referidos,Tecnología
+C0175,2025-08-26,Cali,Búsqueda,Cuidado personal
+C0176,2026-07-01,Bogotá,Redes sociales,Cuidado personal
+C0177,2026-08-19,Barranquilla,Redes sociales,Tecnología
+C0178,2025-09-19,Bogotá,Búsqueda,Papelería
+C0179,2026-04-18,Cali,Redes sociales,Cuidado personal
+C0180,2026-02-14,Medellín,Redes sociales,Papelería
+C0181,2025-09-09,Medellín,Redes sociales,Hogar
+C0182,2026-01-25,Bogotá,Orgánico,Hogar
+C0183,2026-08-06,Barranquilla,Búsqueda,Tecnología
+C0184,2026-04-21,Barranquilla,Búsqueda,Hogar
+C0185,2026-03-06,Medellín,Referidos,Hogar
+C0186,2025-09-12,Bogotá,Redes sociales,Tecnología
+C0187,2026-05-21,Medellín,Redes sociales,Tecnología
+C0188,2026-04-23,Bogotá,Referidos,Deporte
+C0189,2026-06-04,Bogotá,Búsqueda,Cuidado personal
+C0190,2026-08-26,Medellín,Orgánico,Cuidado personal
+C0191,2026-08-27,Bogotá,Redes sociales,Cuidado personal
+C0192,2026-07-11,Cali,Referidos,Hogar
+C0193,2025-09-30,Medellín,Búsqueda,Deporte
+C0194,2025-08-03,Bogotá,Búsqueda,Cuidado personal
+C0195,2026-01-28,Bogotá,Redes sociales,Cuidado personal
+C0196,2025-10-15,Bogotá,Redes sociales,Hogar
+C0197,2026-07-04,Medellín,Redes sociales,Hogar
+C0198,2025-12-22,Medellín,Referidos,Papelería
+C0199,2025-09-14,Barranquilla,Búsqueda,Tecnología
+C0200,2026-08-27,Bogotá,Orgánico,Hogar
+C0201,2026-08-14,Bogotá,Referidos,Papelería
+C0202,2026-02-25,Cali,Redes sociales,Papelería
+C0203,2026-09-18,Cali,Orgánico,Cuidado personal
+C0204,2026-04-10,Bogotá,Redes sociales,Hogar
+C0205,2026-03-24,Medellín,Referidos,Cuidado personal
+C0206,2026-03-03,Bogotá,Búsqueda,Papelería
+C0207,2025-10-03,Cali,Redes sociales,Hogar
+C0208,2026-04-12,Bogotá,Búsqueda,Deporte
+C0209,2026-02-12,Bogotá,Referidos,Tecnología
+C0210,2025-11-11,Barranquilla,Búsqueda,Tecnología
+C0211,2025-08-06,Cali,Búsqueda,Deporte
+C0212,2026-07-15,Bogotá,Orgánico,Tecnología
+C0213,2025-08-02,Cali,Orgánico,Cuidado personal
+C0214,2026-09-09,Barranquilla,Referidos,Hogar
+C0215,2025-11-03,Bogotá,Búsqueda,Cuidado personal
+C0216,2025-10-07,Bogotá,Orgánico,Tecnología
+C0217,2026-09-06,Bogotá,Búsqueda,Tecnología
+C0218,2026-05-16,Bogotá,Redes sociales,Hogar
+C0219,2026-01-09,Medellín,Redes sociales,Hogar
+C0220,2026-02-13,Cali,Redes sociales,Papelería
+C0221,2026-07-18,Barranquilla,Referidos,Hogar
+C0222,2026-04-28,Medellín,Búsqueda,Cuidado personal
+C0223,2026-01-23,Medellín,Búsqueda,Cuidado personal
+C0224,2026-07-10,Bogotá,Referidos,Hogar
+C0225,2025-11-26,Cali,Redes sociales,Hogar
+C0226,2026-07-03,Bogotá,Orgánico,Cuidado personal
+C0227,2026-07-24,Medellín,Redes sociales,Cuidado personal
+C0228,2026-01-03,Cali,Referidos,Cuidado personal
+C0229,2026-09-02,Medellín,Búsqueda,Tecnología
+C0230,2026-08-13,Barranquilla,Búsqueda,Deporte
+C0231,2026-07-23,Cali,Orgánico,Cuidado personal
+C0232,2026-06-07,Medellín,Redes sociales,Cuidado personal
+C0233,2026-07-21,Cali,Orgánico,Papelería
+C0234,2026-06-07,Medellín,Redes sociales,Tecnología
+C0235,2025-12-27,Bogotá,Búsqueda,Tecnología
+C0236,2026-08-29,Cali,Redes sociales,Cuidado personal
+C0237,2026-02-05,Bogotá,Referidos,Tecnología
+C0238,2026-08-18,Medellín,Referidos,Hogar
+C0239,2025-10-23,Medellín,Referidos,Deporte
+C0240,2025-09-18,Bogotá,Redes sociales,Papelería
+C0241,2025-09-25,Bogotá,Referidos,Hogar
+C0242,2026-02-05,Bogotá,Búsqueda,Cuidado personal
+C0243,2026-08-15,Medellín,Búsqueda,Papelería
+C0244,2025-12-29,Medellín,Orgánico,Cuidado personal
+C0245,2026-01-27,Medellín,Búsqueda,Tecnología
+C0246,2025-12-13,Cali,Referidos,Papelería
+C0247,2025-10-16,Bogotá,Búsqueda,Tecnología
+C0248,2025-11-20,Bogotá,Búsqueda,Hogar
+C0249,2026-06-22,Bogotá,Referidos,Papelería
+C0250,2026-03-14,Bogotá,Búsqueda,Tecnología
+C0251,2026-03-23,Bogotá,Búsqueda,Papelería
+C0252,2026-06-04,Bogotá,Referidos,Papelería
+C0253,2026-08-02,Bogotá,Redes sociales,Tecnología
+C0254,2025-08-23,Bogotá,Búsqueda,Hogar
+C0255,2026-07-18,Bogotá,Referidos,Tecnología
+C0256,2026-09-17,Bogotá,Redes sociales,Hogar
+C0257,2025-10-18,Cali,Redes sociales,Tecnología
+C0258,2026-07-23,Cali,Redes sociales,Tecnología
+C0259,2026-07-18,Barranquilla,Referidos,Hogar
+C0260,2025-10-18,Cali,Redes sociales,Hogar
+C0261,2025-12-08,Bogotá,Redes sociales,Tecnología
+C0262,2025-09-22,Bogotá,Referidos,Deporte
+C0263,2026-03-20,Medellín,Búsqueda,Tecnología
+C0264,2026-01-01,Medellín,Redes sociales,Hogar
+C0265,2026-08-05,Cali,Búsqueda,Hogar
+C0266,2026-04-22,Bogotá,Referidos,Cuidado personal
+C0267,2026-03-02,Bogotá,Redes sociales,Hogar
+C0268,2026-07-09,Bogotá,Orgánico,Cuidado personal
+C0269,2025-08-07,Bogotá,Referidos,Tecnología
+C0270,2026-04-10,Bogotá,Redes sociales,Hogar
+C0271,2026-04-21,Medellín,Orgánico,Deporte
+C0272,2026-04-20,Bogotá,Referidos,Deporte
+C0273,2026-05-30,Bogotá,Redes sociales,Deporte
+C0274,2025-12-07,Bogotá,Redes sociales,Tecnología
+C0275,2026-05-04,Bogotá,Redes sociales,Cuidado personal
+C0276,2026-03-19,Cali,Redes sociales,Deporte
+C0277,2025-12-01,Bogotá,Referidos,Papelería
+C0278,2026-08-30,Medellín,Orgánico,Deporte
+C0279,2026-01-12,Barranquilla,Orgánico,Papelería
+C0280,2025-08-19,Medellín,Redes sociales,Papelería
+C0281,2026-06-02,Cali,Orgánico,Hogar
+C0282,2025-12-17,Medellín,Referidos,Tecnología
+C0283,2025-12-26,Bogotá,Redes sociales,Tecnología
+C0284,2025-09-22,Medellín,Referidos,Hogar
+C0285,2026-05-09,Bogotá,Redes sociales,Hogar
+C0286,2025-09-08,Bogotá,Orgánico,Hogar
+C0287,2026-02-17,Bogotá,Redes sociales,Cuidado personal
+C0288,2026-05-06,Bogotá,Redes sociales,Tecnología
+C0289,2025-11-08,Cali,Redes sociales,Papelería
+C0290,2026-08-02,Medellín,Orgánico,Deporte
+C0291,2025-10-04,Medellín,Referidos,Cuidado personal
+C0292,2026-07-28,Medellín,Redes sociales,Deporte
+C0293,2026-05-27,Medellín,Búsqueda,Deporte
+C0294,2025-10-22,Cali,Búsqueda,Hogar
+C0295,2025-08-25,Bogotá,Orgánico,Tecnología
+C0296,2026-07-17,Bogotá,Referidos,Deporte
+C0297,2026-03-14,Bogotá,Búsqueda,Tecnología
+C0298,2026-02-17,Cali,Orgánico,Cuidado personal
+C0299,2026-09-12,Bogotá,Búsqueda,Tecnología
+C0300,2026-08-16,Barranquilla,Búsqueda,Tecnología
+C0301,2026-06-10,Bogotá,Referidos,Cuidado personal
+C0302,2025-09-13,Cali,Redes sociales,Cuidado personal
+C0303,2026-05-02,Medellín,Búsqueda,Hogar
+C0304,2025-12-14,Barranquilla,Redes sociales,Papelería
+C0305,2026-09-08,Bogotá,Orgánico,Deporte
+C0306,2026-09-13,Cali,Búsqueda,Hogar
+C0307,2026-09-01,Cali,Redes sociales,Hogar
+C0308,2025-12-11,Medellín,Redes sociales,Tecnología
+C0309,2026-01-07,Bogotá,Redes sociales,Cuidado personal
+C0310,2026-05-16,Cali,Orgánico,Tecnología
+C0311,2026-07-28,Bogotá,Búsqueda,Deporte
+C0312,2026-03-29,Bogotá,Orgánico,Cuidado personal
+C0313,2026-03-14,Barranquilla,Redes sociales,Deporte
+C0314,2026-06-22,Bogotá,Búsqueda,Tecnología
+C0315,2026-02-04,Cali,Referidos,Tecnología
+C0316,2026-05-21,Cali,Orgánico,Deporte
+C0317,2026-07-17,Bogotá,Referidos,Deporte
+C0318,2026-03-13,Bogotá,Referidos,Deporte
+C0319,2026-01-27,Bogotá,Orgánico,Hogar
+C0320,2026-06-28,Cali,Búsqueda,Deporte
+C0321,2026-04-13,Cali,Redes sociales,Tecnología
+C0322,2026-09-09,Medellín,Redes sociales,Deporte
+C0323,2025-09-04,Medellín,Redes sociales,Tecnología
+C0324,2026-07-23,Medellín,Referidos,Deporte
+C0325,2025-08-27,Medellín,Referidos,Deporte
+C0326,2026-06-28,Bogotá,Búsqueda,Papelería
+C0327,2025-08-05,Cali,Orgánico,Tecnología
+C0328,2026-05-11,Bogotá,Orgánico,Cuidado personal
+C0329,2025-12-29,Bogotá,Referidos,Papelería
+C0330,2025-12-24,Bogotá,Redes sociales,Tecnología
+C0331,2025-09-17,Bogotá,Búsqueda,Cuidado personal
+C0332,2026-04-28,Bogotá,Referidos,Papelería
+C0333,2025-08-20,Medellín,Redes sociales,Tecnología
+C0334,2025-10-05,Bogotá,Redes sociales,Deporte
+C0335,2025-09-10,Medellín,Redes sociales,Papelería
+C0336,2026-08-09,Medellín,Orgánico,Cuidado personal
+C0337,2025-11-14,Bogotá,Referidos,Tecnología
+C0338,2025-10-12,Bogotá,Redes sociales,Tecnología
+C0339,2025-08-04,Bogotá,Orgánico,Hogar
+C0340,2025-10-24,Bogotá,Redes sociales,Deporte
+C0341,2026-08-03,Bogotá,Redes sociales,Tecnología
+C0342,2025-08-18,Cali,Referidos,Deporte
+C0343,2026-03-16,Bogotá,Orgánico,Hogar
+C0344,2026-06-27,Bogotá,Orgánico,Cuidado personal
+C0345,2025-12-20,Cali,Orgánico,Papelería
+C0346,2026-04-04,Cali,Búsqueda,Cuidado personal
+C0347,2026-01-28,Medellín,Redes sociales,Hogar
+C0348,2026-05-09,Bogotá,Redes sociales,Deporte
+C0349,2026-05-11,Medellín,Orgánico,Deporte
+C0350,2026-09-01,Bogotá,Búsqueda,Tecnología
+C0351,2026-03-14,Bogotá,Redes sociales,Cuidado personal
+C0352,2025-12-07,Bogotá,Búsqueda,Papelería
+C0353,2026-04-23,Barranquilla,Redes sociales,Papelería
+C0354,2026-09-02,Bogotá,Búsqueda,Papelería
+C0355,2026-04-01,Bogotá,Redes sociales,Tecnología
+C0356,2025-10-25,Bogotá,Referidos,Deporte
+C0357,2026-08-31,Bogotá,Referidos,Hogar
+C0358,2025-12-02,Bogotá,Orgánico,Cuidado personal
+C0359,2026-04-27,Medellín,Referidos,Papelería
+C0360,2026-09-17,Bogotá,Redes sociales,Hogar
+C0361,2026-07-15,Barranquilla,Redes sociales,Hogar
+C0362,2026-01-02,Cali,Referidos,Hogar
+C0363,2026-06-05,Barranquilla,Referidos,Cuidado personal
+C0364,2026-05-08,Bogotá,Referidos,Deporte
+C0365,2025-08-16,Bogotá,Redes sociales,Hogar
+C0366,2025-12-02,Bogotá,Redes sociales,Cuidado personal
+C0367,2025-11-05,Bogotá,Referidos,Tecnología
+C0368,2026-03-04,Barranquilla,Búsqueda,Papelería
+C0369,2025-10-03,Cali,Orgánico,Tecnología
+C0370,2026-02-22,Barranquilla,Orgánico,Deporte
+C0371,2025-12-30,Bogotá,Orgánico,Cuidado personal
+C0372,2025-11-29,Bogotá,Referidos,Hogar
+C0373,2026-01-18,Bogotá,Redes sociales,Tecnología
+C0374,2025-08-21,Medellín,Búsqueda,Hogar
+C0375,2026-07-23,Cali,Búsqueda,Cuidado personal
+C0376,2025-11-22,Cali,Orgánico,Tecnología
+C0377,2026-02-08,Medellín,Orgánico,Cuidado personal
+C0378,2025-08-28,Barranquilla,Redes sociales,Cuidado personal
+C0379,2026-07-23,Bogotá,Búsqueda,Cuidado personal
+C0380,2026-04-04,Medellín,Redes sociales,Tecnología
+C0381,2026-04-10,Medellín,Redes sociales,Papelería
+C0382,2026-01-05,Barranquilla,Orgánico,Papelería
+C0383,2026-05-15,Bogotá,Búsqueda,Hogar
+C0384,2026-02-26,Bogotá,Búsqueda,Deporte
+C0385,2025-09-08,Bogotá,Orgánico,Hogar
+C0386,2025-10-02,Bogotá,Referidos,Papelería
+C0387,2025-10-26,Medellín,Referidos,Deporte
+C0388,2025-09-04,Bogotá,Búsqueda,Deporte
+C0389,2026-07-07,Medellín,Redes sociales,Papelería
+C0390,2026-09-23,Barranquilla,Orgánico,Hogar
+C0391,2026-07-15,Bogotá,Referidos,Deporte
+C0392,2026-03-09,Medellín,Búsqueda,Deporte
+C0393,2026-03-10,Bogotá,Redes sociales,Hogar
+C0394,2025-10-29,Bogotá,Búsqueda,Hogar
+C0395,2026-04-07,Cali,Referidos,Hogar
+C0396,2026-04-13,Bogotá,Redes sociales,Papelería
+C0397,2025-08-13,Medellín,Redes sociales,Hogar
+C0398,2025-09-10,Bogotá,Búsqueda,Hogar
+C0399,2026-03-20,Bogotá,Búsqueda,Hogar
+C0400,2026-03-15,Medellín,Orgánico,Tecnología
+C0401,2025-09-13,Medellín,Orgánico,Papelería
+C0402,2025-12-19,Medellín,Búsqueda,Hogar
+C0403,2025-08-26,Bogotá,Búsqueda,Cuidado personal
+C0404,2025-10-16,Cali,Búsqueda,Papelería
+C0405,2025-11-19,Bogotá,Búsqueda,Cuidado personal
+C0406,2026-04-04,Bogotá,Redes sociales,Deporte
+C0407,2026-08-12,Medellín,Búsqueda,Hogar
+C0408,2025-10-13,Cali,Referidos,Tecnología
+C0409,2026-07-29,Bogotá,Redes sociales,Deporte
+C0410,2025-08-15,Cali,Redes sociales,Tecnología
+C0411,2025-12-29,Cali,Redes sociales,Tecnología
+C0412,2026-05-16,Medellín,Búsqueda,Deporte
+C0413,2025-10-10,Bogotá,Orgánico,Tecnología
+C0414,2026-04-01,Cali,Búsqueda,Tecnología
+C0415,2026-06-13,Cali,Redes sociales,Hogar
+C0416,2025-09-26,Bogotá,Redes sociales,Papelería
+C0417,2025-10-15,Medellín,Redes sociales,Cuidado personal
+C0418,2026-01-25,Barranquilla,Búsqueda,Cuidado personal
+C0419,2026-04-10,Bogotá,Búsqueda,Tecnología
+C0420,2025-10-24,Bogotá,Referidos,Tecnología
+C0421,2026-08-13,Bogotá,Orgánico,Papelería
+C0422,2025-09-25,Barranquilla,Redes sociales,Deporte
+C0423,2026-02-26,Bogotá,Redes sociales,Papelería
+C0424,2025-11-19,Medellín,Redes sociales,Hogar
+C0425,2026-05-24,Bogotá,Búsqueda,Cuidado personal
+C0426,2026-09-11,Barranquilla,Orgánico,Hogar
+C0427,2026-07-25,Cali,Redes sociales,Tecnología
+C0428,2026-05-10,Bogotá,Redes sociales,Tecnología
+C0429,2026-03-19,Bogotá,Redes sociales,Tecnología
+C0430,2026-09-22,Bogotá,Búsqueda,Tecnología
+C0431,2026-06-09,Barranquilla,Referidos,Hogar
+C0432,2026-07-10,Medellín,Redes sociales,Tecnología
+C0433,2025-11-03,Bogotá,Búsqueda,Hogar
+C0434,2026-04-07,Bogotá,Redes sociales,Papelería
+C0435,2026-01-23,Medellín,Redes sociales,Deporte
+C0436,2026-03-04,Cali,Búsqueda,Tecnología
+C0437,2026-08-18,Bogotá,Redes sociales,Hogar
+C0438,2026-01-28,Bogotá,Redes sociales,Tecnología
+C0439,2026-09-22,Medellín,Referidos,Hogar
+C0440,2026-01-03,Medellín,Búsqueda,Deporte
+C0441,2025-12-22,Bogotá,Referidos,Hogar
+C0442,2026-06-23,Bogotá,Búsqueda,Tecnología
+C0443,2025-11-12,Cali,Redes sociales,Papelería
+C0444,2026-04-18,Bogotá,Búsqueda,Papelería
+C0445,2026-05-31,Medellín,Referidos,Deporte
+C0446,2026-02-20,Bogotá,Búsqueda,Tecnología
+C0447,2026-05-05,Barranquilla,Referidos,Tecnología
+C0448,2026-08-07,Medellín,Búsqueda,Tecnología
+C0449,2026-02-22,Medellín,Búsqueda,Hogar
+C0450,2025-11-09,Medellín,Referidos,Cuidado personal
+C0451,2026-03-27,Bogotá,Búsqueda,Hogar
+C0452,2026-02-20,Bogotá,Referidos,Deporte
+C0453,2026-09-10,Bogotá,Redes sociales,Papelería
+C0454,2026-04-19,Cali,Búsqueda,Deporte
+C0455,2026-02-01,Bogotá,Orgánico,Cuidado personal
+C0456,2025-08-30,Medellín,Redes sociales,Papelería
+C0457,2026-09-01,Bogotá,Búsqueda,Deporte
+C0458,2025-10-16,Medellín,Redes sociales,Deporte
+C0459,2026-02-09,Bogotá,Orgánico,Tecnología
+C0460,2025-11-15,Cali,Búsqueda,Cuidado personal
+C0461,2026-05-24,Cali,Referidos,Hogar
+C0462,2026-03-10,Bogotá,Orgánico,Papelería
+C0463,2026-02-26,Medellín,Redes sociales,Tecnología
+C0464,2025-12-09,Cali,Referidos,Hogar
+C0465,2026-01-31,Cali,Referidos,Hogar
+C0466,2025-11-12,Medellín,Orgánico,Papelería
+C0467,2026-04-09,Bogotá,Orgánico,Deporte
+C0468,2026-03-16,Bogotá,Orgánico,Cuidado personal
+C0469,2025-09-19,Bogotá,Búsqueda,Hogar
+C0470,2026-01-29,Medellín,Búsqueda,Deporte
+C0471,2026-07-28,Cali,Redes sociales,Cuidado personal
+C0472,2025-09-14,Bogotá,Búsqueda,Deporte
+C0473,2025-08-30,Bogotá,Orgánico,Deporte
+C0474,2026-02-28,Bogotá,Referidos,Deporte
+C0475,2025-12-25,Bogotá,Búsqueda,Papelería
+C0476,2025-10-07,Bogotá,Búsqueda,Tecnología
+C0477,2026-04-19,Bogotá,Redes sociales,Hogar
+C0478,2026-01-16,Bogotá,Redes sociales,Hogar
+C0479,2025-10-02,Barranquilla,Orgánico,Deporte
+C0480,2026-06-20,Medellín,Redes sociales,Deporte
+C0481,2026-08-04,Bogotá,Redes sociales,Tecnología
+C0482,2026-04-24,Bogotá,Orgánico,Hogar
+C0483,2025-10-06,Cali,Referidos,Deporte
+C0484,2025-09-30,Cali,Búsqueda,Cuidado personal
+C0485,2026-08-19,Bogotá,Redes sociales,Cuidado personal
+C0486,2026-07-01,Bogotá,Búsqueda,Deporte
+C0487,2026-06-21,Bogotá,Orgánico,Cuidado personal
+C0488,2026-08-05,Bogotá,Orgánico,Hogar
+C0489,2026-08-12,Medellín,Redes sociales,Papelería
+C0490,2026-09-17,Bogotá,Referidos,Deporte
+C0491,2025-09-17,Bogotá,Búsqueda,Deporte
+C0492,2026-03-30,Bogotá,Búsqueda,Papelería
+C0493,2025-08-09,Bogotá,Referidos,Hogar
+C0494,2026-05-03,Medellín,Redes sociales,Tecnología
+C0495,2026-06-03,Bogotá,Búsqueda,Deporte
+C0496,2025-09-23,Medellín,Redes sociales,Deporte
+C0497,2026-05-17,Medellín,Redes sociales,Cuidado personal
+C0498,2026-08-12,Bogotá,Búsqueda,Hogar
+C0499,2025-12-25,Cali,Búsqueda,Deporte
+C0500,2026-01-03,Cali,Redes sociales,Tecnología
+C0501,2026-06-27,Medellín,Redes sociales,Hogar
+C0502,2026-04-03,Bogotá,Redes sociales,Hogar
+C0503,2026-04-16,Medellín,Orgánico,Tecnología
+C0504,2026-06-04,Barranquilla,Redes sociales,Papelería
+C0505,2026-07-16,Bogotá,Redes sociales,Tecnología
+C0506,2026-07-29,Bogotá,Redes sociales,Deporte
+C0507,2025-09-12,Medellín,Referidos,Cuidado personal
+C0508,2026-02-15,Cali,Redes sociales,Hogar
+C0509,2026-02-22,Cali,Redes sociales,Deporte
+C0510,2026-07-08,Bogotá,Redes sociales,Deporte
+C0511,2026-04-26,Cali,Búsqueda,Cuidado personal
+C0512,2026-08-06,Medellín,Búsqueda,Cuidado personal
+C0513,2025-09-06,Medellín,Orgánico,Hogar
+C0514,2026-04-18,Cali,Búsqueda,Deporte
+C0515,2026-09-13,Barranquilla,Referidos,Papelería
+C0516,2025-08-16,Bogotá,Redes sociales,Cuidado personal
+C0517,2026-01-14,Medellín,Búsqueda,Cuidado personal
+C0518,2026-09-12,Bogotá,Redes sociales,Cuidado personal
+C0519,2025-08-30,Bogotá,Redes sociales,Deporte
+C0520,2026-09-14,Bogotá,Búsqueda,Hogar
+C0521,2026-04-02,Bogotá,Redes sociales,Tecnología
+C0522,2026-02-15,Medellín,Redes sociales,Deporte
+C0523,2025-09-19,Bogotá,Referidos,Cuidado personal
+C0524,2025-12-01,Bogotá,Redes sociales,Hogar
+C0525,2026-05-06,Bogotá,Referidos,Deporte
+C0526,2026-03-11,Medellín,Redes sociales,Cuidado personal
+C0527,2025-08-11,Bogotá,Referidos,Hogar
+C0528,2025-12-06,Medellín,Orgánico,Cuidado personal
+C0529,2026-04-03,Cali,Referidos,Tecnología
+C0530,2026-03-17,Bogotá,Redes sociales,Deporte
+C0531,2026-06-14,Medellín,Redes sociales,Deporte
+C0532,2026-01-12,Medellín,Orgánico,Papelería
+C0533,2025-10-02,Cali,Búsqueda,Deporte
+C0534,2025-10-18,Barranquilla,Búsqueda,Hogar
+C0535,2025-11-26,Medellín,Búsqueda,Cuidado personal
+C0536,2026-08-08,Bogotá,Redes sociales,Hogar
+C0537,2025-09-01,Barranquilla,Orgánico,Hogar
+C0538,2025-11-01,Cali,Búsqueda,Deporte
+C0539,2026-03-23,Medellín,Búsqueda,Hogar
+C0540,2026-07-23,Bogotá,Orgánico,Deporte
+C0541,2026-01-08,Bogotá,Redes sociales,Tecnología
+C0542,2026-06-22,Barranquilla,Redes sociales,Hogar
+C0543,2025-11-09,Cali,Orgánico,Tecnología
+C0544,2025-08-27,Bogotá,Redes sociales,Deporte
+C0545,2026-07-05,Barranquilla,Redes sociales,Hogar
+C0546,2026-03-05,Barranquilla,Redes sociales,Papelería
+C0547,2026-07-31,Bogotá,Orgánico,Deporte
+C0548,2026-02-09,Cali,Referidos,Papelería
+C0549,2026-07-26,Bogotá,Redes sociales,Deporte
+C0550,2026-09-23,Medellín,Búsqueda,Papelería
+C0551,2025-08-06,Cali,Redes sociales,Papelería
+C0552,2025-10-25,Bogotá,Referidos,Tecnología
+C0553,2025-11-10,Bogotá,Búsqueda,Tecnología
+C0554,2026-06-02,Medellín,Búsqueda,Papelería
+C0555,2026-03-20,Medellín,Redes sociales,Deporte
+C0556,2026-05-04,Bogotá,Referidos,Cuidado personal
+C0557,2025-11-16,Bogotá,Redes sociales,Tecnología
+C0558,2025-11-29,Bogotá,Búsqueda,Cuidado personal
+C0559,2026-03-01,Bogotá,Orgánico,Cuidado personal
+C0560,2026-07-09,Bogotá,Orgánico,Deporte
+C0561,2026-04-02,Cali,Orgánico,Hogar
+C0562,2026-06-27,Bogotá,Referidos,Papelería
+C0563,2026-05-24,Bogotá,Búsqueda,Deporte
+C0564,2026-09-23,Bogotá,Redes sociales,Cuidado personal
+C0565,2026-02-13,Bogotá,Búsqueda,Cuidado personal
+C0566,2026-04-13,Medellín,Búsqueda,Tecnología
+C0567,2025-12-01,Bogotá,Referidos,Tecnología
+C0568,2025-10-07,Barranquilla,Redes sociales,Cuidado personal
+C0569,2026-05-11,Barranquilla,Redes sociales,Hogar
+C0570,2025-09-18,Bogotá,Referidos,Papelería
+C0571,2026-06-18,Medellín,Orgánico,Papelería
+C0572,2025-12-16,Cali,Búsqueda,Hogar
+C0573,2025-08-15,Barranquilla,Referidos,Tecnología
+C0574,2025-11-12,Cali,Búsqueda,Papelería
+C0575,2026-07-26,Bogotá,Orgánico,Tecnología
+C0576,2025-08-10,Bogotá,Redes sociales,Tecnología
+C0577,2026-07-26,Medellín,Búsqueda,Tecnología
+C0578,2026-07-21,Bogotá,Redes sociales,Deporte
+C0579,2025-12-11,Cali,Búsqueda,Deporte
+C0580,2025-09-15,Bogotá,Búsqueda,Tecnología
+C0581,2026-05-09,Cali,Búsqueda,Tecnología
+C0582,2025-11-22,Medellín,Orgánico,Deporte
+C0583,2025-11-23,Barranquilla,Redes sociales,Tecnología
+C0584,2026-01-14,Bogotá,Orgánico,Papelería
+C0585,2025-12-19,Cali,Redes sociales,Papelería
+C0586,2026-07-19,Bogotá,Redes sociales,Hogar
+C0587,2026-08-15,Bogotá,Redes sociales,Hogar
+C0588,2026-03-01,Bogotá,Referidos,Deporte
+C0589,2026-09-18,Medellín,Redes sociales,Tecnología
+C0590,2026-07-28,Barranquilla,Redes sociales,Cuidado personal
+C0591,2025-10-16,Bogotá,Búsqueda,Tecnología
+C0592,2025-10-05,Medellín,Orgánico,Tecnología
+C0593,2026-07-09,Bogotá,Orgánico,Tecnología
+C0594,2025-12-12,Medellín,Redes sociales,Tecnología
+C0595,2025-08-14,Bogotá,Búsqueda,Tecnología
+C0596,2026-08-30,Bogotá,Redes sociales,Cuidado personal
+C0597,2026-04-09,Cali,Redes sociales,Tecnología
+C0598,2025-08-05,Bogotá,Orgánico,Hogar
+C0599,2026-05-23,Bogotá,Búsqueda,Tecnología
+C0600,2026-03-03,Medellín,Redes sociales,Deporte
+C0601,2026-07-21,Cali,Referidos,Hogar
+C0602,2025-09-20,Bogotá,Referidos,Deporte
+C0603,2025-12-30,Cali,Referidos,Papelería
+C0604,2026-06-25,Cali,Redes sociales,Tecnología
+C0605,2026-01-09,Bogotá,Búsqueda,Papelería
+C0606,2026-01-27,Bogotá,Orgánico,Cuidado personal
+C0607,2025-12-14,Barranquilla,Redes sociales,Deporte
+C0608,2025-12-19,Barranquilla,Orgánico,Tecnología
+C0609,2026-01-04,Bogotá,Búsqueda,Deporte
+C0610,2026-04-28,Cali,Búsqueda,Hogar
+C0611,2025-10-05,Bogotá,Referidos,Hogar
+C0612,2026-07-14,Cali,Redes sociales,Deporte
+C0613,2025-11-03,Bogotá,Búsqueda,Deporte
+C0614,2025-12-12,Bogotá,Búsqueda,Tecnología
+C0615,2026-05-14,Bogotá,Redes sociales,Hogar
+C0616,2025-08-14,Medellín,Redes sociales,Cuidado personal
+C0617,2026-02-01,Bogotá,Búsqueda,Tecnología
+C0618,2026-02-11,Bogotá,Orgánico,Tecnología
+C0619,2026-01-18,Bogotá,Orgánico,Tecnología
+C0620,2025-12-16,Medellín,Orgánico,Hogar
+C0621,2025-11-15,Medellín,Búsqueda,Deporte
+C0622,2025-10-20,Cali,Búsqueda,Cuidado personal
+C0623,2026-07-24,Bogotá,Búsqueda,Cuidado personal
+C0624,2026-06-30,Bogotá,Búsqueda,Papelería
+C0625,2025-08-01,Bogotá,Redes sociales,Tecnología
+C0626,2026-02-09,Bogotá,Búsqueda,Hogar
+C0627,2025-11-19,Medellín,Redes sociales,Cuidado personal
+C0628,2026-05-19,Barranquilla,Redes sociales,Deporte
+C0629,2025-08-23,Cali,Búsqueda,Cuidado personal
+C0630,2026-01-24,Bogotá,Referidos,Papelería
+C0631,2026-06-03,Bogotá,Búsqueda,Tecnología
+C0632,2026-05-26,Medellín,Redes sociales,Tecnología
+C0633,2026-09-08,Medellín,Referidos,Tecnología
+C0634,2026-09-12,Cali,Redes sociales,Cuidado personal
+C0635,2025-10-27,Bogotá,Búsqueda,Cuidado personal
+C0636,2026-08-12,Bogotá,Redes sociales,Tecnología
+C0637,2025-08-31,Cali,Orgánico,Papelería
+C0638,2026-03-10,Cali,Búsqueda,Tecnología
+C0639,2026-05-15,Cali,Redes sociales,Tecnología
+C0640,2025-08-27,Cali,Redes sociales,Deporte
+C0641,2026-04-08,Cali,Referidos,Papelería
+C0642,2025-10-26,Barranquilla,Redes sociales,Deporte
+C0643,2025-08-15,Medellín,Búsqueda,Cuidado personal
+C0644,2025-10-14,Bogotá,Búsqueda,Tecnología
+C0645,2026-06-06,Bogotá,Orgánico,Cuidado personal
+C0646,2026-06-26,Medellín,Búsqueda,Cuidado personal
+C0647,2026-03-26,Bogotá,Referidos,Papelería
+C0648,2026-08-05,Medellín,Redes sociales,Papelería
+C0649,2026-08-09,Barranquilla,Redes sociales,Deporte
+C0650,2026-03-02,Bogotá,Redes sociales,Deporte
+C0651,2026-02-05,Bogotá,Orgánico,Deporte
+C0652,2026-09-10,Medellín,Redes sociales,Deporte
+C0653,2026-06-02,Barranquilla,Redes sociales,Deporte
+C0654,2025-09-11,Bogotá,Referidos,Tecnología
+C0655,2025-09-28,Bogotá,Referidos,Hogar
+C0656,2025-09-25,Cali,Orgánico,Cuidado personal
+C0657,2026-02-01,Bogotá,Redes sociales,Tecnología
+C0658,2025-10-26,Medellín,Referidos,Papelería
+C0659,2025-10-16,Cali,Redes sociales,Cuidado personal
+C0660,2025-11-15,Bogotá,Redes sociales,Deporte
+C0661,2026-06-08,Cali,Orgánico,Deporte
+C0662,2025-08-29,Barranquilla,Redes sociales,Tecnología
+C0663,2025-10-10,Medellín,Búsqueda,Tecnología
+C0664,2025-11-24,Cali,Referidos,Tecnología
+C0665,2025-08-27,Cali,Redes sociales,Hogar
+C0666,2026-03-03,Bogotá,Orgánico,Deporte
+C0667,2025-10-17,Barranquilla,Redes sociales,Deporte
+C0668,2026-09-08,Medellín,Búsqueda,Cuidado personal
+C0669,2025-08-20,Medellín,Redes sociales,Tecnología
+C0670,2026-04-16,Cali,Redes sociales,Tecnología
+C0671,2025-09-20,Bogotá,Redes sociales,Hogar
+C0672,2025-08-12,Medellín,Redes sociales,Deporte
+C0673,2026-09-09,Cali,Redes sociales,Cuidado personal
+C0674,2026-08-13,Bogotá,Redes sociales,Tecnología
+C0675,2026-04-24,Medellín,Redes sociales,Hogar
+C0676,2026-06-06,Bogotá,Redes sociales,Papelería
+C0677,2026-04-26,Medellín,Redes sociales,Deporte
+C0678,2026-04-29,Bogotá,Búsqueda,Papelería
+C0679,2025-12-15,Bogotá,Redes sociales,Cuidado personal
+C0680,2026-05-11,Cali,Referidos,Tecnología
+C0681,2026-06-05,Bogotá,Referidos,Hogar
+C0682,2026-08-15,Bogotá,Redes sociales,Tecnología
+C0683,2025-10-16,Barranquilla,Referidos,Papelería
+C0684,2025-11-22,Barranquilla,Búsqueda,Deporte
+C0685,2025-09-08,Bogotá,Redes sociales,Tecnología
+C0686,2026-09-19,Bogotá,Orgánico,Deporte
+C0687,2025-12-31,Bogotá,Redes sociales,Cuidado personal
+C0688,2026-03-24,Bogotá,Referidos,Tecnología
+C0689,2026-03-14,Bogotá,Orgánico,Cuidado personal
+C0690,2026-05-26,Medellín,Redes sociales,Tecnología
+C0691,2026-05-15,Cali,Búsqueda,Cuidado personal
+C0692,2026-02-15,Cali,Orgánico,Deporte
+C0693,2026-03-17,Bogotá,Redes sociales,Cuidado personal
+C0694,2026-05-11,Bogotá,Redes sociales,Cuidado personal
+C0695,2025-12-29,Bogotá,Búsqueda,Deporte
+C0696,2026-05-20,Medellín,Referidos,Tecnología
+C0697,2026-09-17,Bogotá,Orgánico,Cuidado personal
+C0698,2025-10-25,Barranquilla,Referidos,Deporte
+C0699,2026-02-27,Barranquilla,Redes sociales,Hogar
+C0700,2025-12-29,Bogotá,Redes sociales,Tecnología
+C0701,2025-08-15,Bogotá,Redes sociales,Hogar
+C0702,2026-05-20,Bogotá,Redes sociales,Hogar
+C0703,2026-08-31,Cali,Búsqueda,Hogar
+C0704,2026-08-13,Medellín,Referidos,Papelería
+C0705,2026-05-22,Bogotá,Referidos,Tecnología
+C0706,2025-09-12,Cali,Referidos,Hogar
+C0707,2025-12-14,Bogotá,Búsqueda,Cuidado personal
+C0708,2026-07-25,Bogotá,Redes sociales,Papelería
+C0709,2026-01-18,Cali,Búsqueda,Papelería
+C0710,2026-04-14,Bogotá,Redes sociales,Cuidado personal
+C0711,2026-05-02,Cali,Búsqueda,Hogar
+C0712,2025-09-17,Bogotá,Orgánico,Deporte
+C0713,2026-05-28,Bogotá,Orgánico,Papelería
+C0714,2025-08-17,Bogotá,Orgánico,Tecnología
+C0715,2026-08-15,Bogotá,Búsqueda,Deporte
+C0716,2025-09-10,Bogotá,Búsqueda,Cuidado personal
+C0717,2026-09-06,Bogotá,Redes sociales,Hogar
+C0718,2026-03-24,Bogotá,Referidos,Hogar
+C0719,2026-03-02,Medellín,Orgánico,Hogar
+C0720,2026-01-08,Cali,Referidos,Deporte
+C0721,2026-05-20,Barranquilla,Redes sociales,Tecnología
+C0722,2026-05-09,Bogotá,Orgánico,Hogar
+C0723,2025-11-08,Bogotá,Redes sociales,Cuidado personal
+C0724,2026-05-05,Bogotá,Búsqueda,Cuidado personal
+C0725,2025-08-02,Cali,Orgánico,Tecnología
+C0726,2026-05-01,Cali,Orgánico,Tecnología
+C0727,2025-11-15,Medellín,Referidos,Hogar
+C0728,2025-10-18,Bogotá,Redes sociales,Tecnología
+C0729,2025-08-05,Cali,Redes sociales,Tecnología
+C0730,2026-04-24,Cali,Redes sociales,Hogar
+C0731,2026-08-12,Medellín,Referidos,Hogar
+C0732,2025-10-02,Bogotá,Referidos,Papelería
+C0733,2026-03-23,Bogotá,Redes sociales,Papelería
+C0734,2025-08-17,Bogotá,Orgánico,Papelería
+C0735,2026-01-20,Medellín,Orgánico,Hogar
+C0736,2026-04-02,Bogotá,Redes sociales,Papelería
+C0737,2026-07-13,Bogotá,Referidos,Hogar
+C0738,2026-02-17,Bogotá,Búsqueda,Hogar
+C0739,2026-08-14,Medellín,Redes sociales,Papelería
+C0740,2026-02-07,Medellín,Orgánico,Cuidado personal
+C0741,2026-05-10,Bogotá,Redes sociales,Tecnología
+C0742,2025-12-09,Bogotá,Referidos,Cuidado personal
+C0743,2025-09-22,Medellín,Orgánico,Tecnología
+C0744,2025-08-07,Bogotá,Búsqueda,Tecnología
+C0745,2025-11-07,Bogotá,Referidos,Tecnología
+C0746,2026-01-01,Bogotá,Búsqueda,Cuidado personal
+C0747,2026-08-26,Bogotá,Búsqueda,Tecnología
+C0748,2025-08-21,Medellín,Búsqueda,Cuidado personal
+C0749,2026-02-06,Bogotá,Redes sociales,Hogar
+C0750,2026-09-20,Bogotá,Redes sociales,Deporte
+C0751,2026-04-21,Medellín,Búsqueda,Cuidado personal
+C0752,2026-03-27,Medellín,Redes sociales,Hogar
+C0753,2026-09-20,Medellín,Referidos,Cuidado personal
+C0754,2026-03-20,Bogotá,Búsqueda,Tecnología
+C0755,2026-03-15,Cali,Redes sociales,Papelería
+C0756,2026-08-04,Bogotá,Búsqueda,Papelería
+C0757,2026-07-12,Barranquilla,Redes sociales,Deporte
+C0758,2026-07-30,Cali,Redes sociales,Hogar
+C0759,2025-11-09,Cali,Redes sociales,Cuidado personal
+C0760,2026-05-30,Bogotá,Redes sociales,Hogar
+C0761,2026-02-19,Medellín,Búsqueda,Cuidado personal
+C0762,2026-09-14,Bogotá,Redes sociales,Hogar
+C0763,2026-07-15,Bogotá,Búsqueda,Cuidado personal
+C0764,2026-08-29,Bogotá,Búsqueda,Hogar
+C0765,2026-01-01,Bogotá,Orgánico,Tecnología
+C0766,2026-04-11,Cali,Referidos,Papelería
+C0767,2026-04-10,Bogotá,Redes sociales,Deporte
+C0768,2026-07-30,Medellín,Orgánico,Cuidado personal
+C0769,2026-01-09,Bogotá,Referidos,Cuidado personal
+C0770,2026-04-27,Bogotá,Referidos,Cuidado personal
+C0771,2025-12-26,Barranquilla,Búsqueda,Tecnología
+C0772,2025-10-16,Barranquilla,Búsqueda,Cuidado personal
+C0773,2026-05-01,Bogotá,Orgánico,Cuidado personal
+C0774,2025-10-13,Cali,Redes sociales,Deporte
+C0775,2026-04-16,Cali,Búsqueda,Tecnología
+C0776,2026-09-11,Bogotá,Búsqueda,Tecnología
+C0777,2025-11-15,Bogotá,Redes sociales,Papelería
+C0778,2026-09-08,Barranquilla,Referidos,Cuidado personal
+C0779,2025-10-15,Cali,Referidos,Hogar
+C0780,2026-07-08,Bogotá,Redes sociales,Papelería
+C0781,2025-12-10,Bogotá,Búsqueda,Hogar
+C0782,2025-10-20,Cali,Redes sociales,Deporte
+C0783,2026-05-07,Barranquilla,Búsqueda,Deporte
+C0784,2026-08-06,Barranquilla,Redes sociales,Papelería
+C0785,2026-04-14,Cali,Referidos,Cuidado personal
+C0786,2026-02-28,Medellín,Referidos,Tecnología
+C0787,2026-08-22,Medellín,Redes sociales,Deporte
+C0788,2025-08-25,Cali,Redes sociales,Deporte
+C0789,2025-09-24,Bogotá,Orgánico,Cuidado personal
+C0790,2026-02-06,Medellín,Redes sociales,Papelería
+C0791,2026-07-01,Bogotá,Búsqueda,Tecnología
+C0792,2026-09-16,Medellín,Referidos,Tecnología
+C0793,2026-06-28,Barranquilla,Orgánico,Hogar
+C0794,2025-12-20,Cali,Búsqueda,Deporte
+C0795,2025-11-02,Barranquilla,Búsqueda,Hogar
+C0796,2025-08-08,Cali,Búsqueda,Hogar
+C0797,2025-09-12,Bogotá,Búsqueda,Cuidado personal
+C0798,2025-09-30,Cali,Búsqueda,Deporte
+C0799,2025-09-06,Medellín,Orgánico,Cuidado personal
+C0800,2026-08-24,Medellín,Orgánico,Tecnología
+C0801,2025-10-26,Bogotá,Redes sociales,Deporte
+C0802,2026-09-23,Cali,Búsqueda,Deporte
+C0803,2026-08-05,Barranquilla,Búsqueda,Tecnología
+C0804,2026-09-03,Bogotá,Redes sociales,Deporte
+C0805,2026-02-10,Bogotá,Redes sociales,Tecnología
+C0806,2026-01-04,Bogotá,Orgánico,Tecnología
+C0807,2025-12-03,Bogotá,Redes sociales,Papelería
+C0808,2025-10-30,Medellín,Redes sociales,Papelería
+C0809,2025-12-05,Medellín,Redes sociales,Hogar
+C0810,2026-07-07,Bogotá,Orgánico,Hogar
+C0811,2026-03-26,Bogotá,Búsqueda,Tecnología
+C0812,2025-09-08,Cali,Redes sociales,Hogar
+C0813,2025-10-28,Medellín,Redes sociales,Tecnología
+C0814,2026-09-09,Bogotá,Redes sociales,Hogar
+C0815,2025-10-14,Medellín,Referidos,Papelería
+C0816,2026-07-31,Bogotá,Búsqueda,Tecnología
+C0817,2026-07-09,Bogotá,Referidos,Hogar
+C0818,2025-11-03,Bogotá,Redes sociales,Deporte
+C0819,2026-02-21,Bogotá,Referidos,Hogar
+C0820,2026-05-04,Bogotá,Redes sociales,Deporte
+C0821,2026-05-22,Medellín,Búsqueda,Tecnología
+C0822,2025-12-08,Medellín,Redes sociales,Hogar
+C0823,2026-04-01,Barranquilla,Referidos,Cuidado personal
+C0824,2025-09-16,Barranquilla,Búsqueda,Cuidado personal
+C0825,2025-08-27,Cali,Referidos,Cuidado personal
+C0826,2026-02-04,Bogotá,Búsqueda,Deporte
+C0827,2025-09-09,Bogotá,Redes sociales,Cuidado personal
+C0828,2026-03-15,Cali,Orgánico,Hogar
+C0829,2025-09-26,Cali,Redes sociales,Cuidado personal
+C0830,2026-07-06,Bogotá,Referidos,Tecnología
+C0831,2025-09-27,Medellín,Orgánico,Cuidado personal
+C0832,2025-11-10,Bogotá,Búsqueda,Tecnología
+C0833,2025-08-09,Cali,Redes sociales,Hogar
+C0834,2026-07-12,Medellín,Redes sociales,Hogar
+C0835,2026-01-28,Bogotá,Búsqueda,Tecnología
+C0836,2025-12-21,Medellín,Redes sociales,Deporte
+C0837,2025-11-06,Medellín,Orgánico,Tecnología
+C0838,2025-12-27,Bogotá,Redes sociales,Deporte
+C0839,2026-08-11,Medellín,Referidos,Cuidado personal
+C0840,2026-02-03,Cali,Redes sociales,Hogar
+C0841,2026-01-31,Medellín,Referidos,Tecnología
+C0842,2026-09-09,Bogotá,Búsqueda,Deporte
+C0843,2025-10-10,Medellín,Búsqueda,Tecnología
+C0844,2025-10-18,Bogotá,Búsqueda,Papelería
+C0845,2026-01-04,Bogotá,Redes sociales,Cuidado personal
+C0846,2025-08-02,Bogotá,Referidos,Tecnología
+C0847,2025-08-09,Bogotá,Búsqueda,Cuidado personal
+C0848,2025-11-25,Cali,Redes sociales,Hogar
+C0849,2026-03-01,Bogotá,Redes sociales,Tecnología
+C0850,2026-07-23,Barranquilla,Búsqueda,Hogar
+C0851,2025-10-30,Bogotá,Búsqueda,Papelería
+C0852,2025-08-17,Bogotá,Referidos,Hogar
+C0853,2026-08-07,Bogotá,Redes sociales,Cuidado personal
+C0854,2026-01-28,Bogotá,Búsqueda,Tecnología
+C0855,2026-06-02,Medellín,Redes sociales,Tecnología
+C0856,2026-06-01,Bogotá,Búsqueda,Hogar
+C0857,2026-05-23,Medellín,Referidos,Tecnología
+C0858,2025-10-27,Cali,Búsqueda,Cuidado personal
+C0859,2026-01-24,Bogotá,Búsqueda,Cuidado personal
+C0860,2026-08-01,Cali,Redes sociales,Tecnología
+C0861,2025-12-19,Bogotá,Orgánico,Cuidado personal
+C0862,2026-03-17,Cali,Orgánico,Deporte
+C0863,2026-05-09,Bogotá,Búsqueda,Cuidado personal
+C0864,2026-06-14,Medellín,Orgánico,Tecnología
+C0865,2025-08-12,Bogotá,Búsqueda,Cuidado personal
+C0866,2026-09-20,Bogotá,Búsqueda,Tecnología
+C0867,2025-09-05,Cali,Búsqueda,Papelería
+C0868,2025-09-03,Bogotá,Búsqueda,Deporte
+C0869,2026-07-08,Bogotá,Redes sociales,Hogar
+C0870,2026-06-27,Bogotá,Redes sociales,Hogar
+C0871,2026-02-19,Bogotá,Búsqueda,Papelería
+C0872,2026-04-16,Bogotá,Redes sociales,Papelería
+C0873,2026-04-14,Cali,Redes sociales,Tecnología
+C0874,2025-12-24,Bogotá,Búsqueda,Papelería
+C0875,2026-04-25,Bogotá,Redes sociales,Hogar
+C0876,2026-08-25,Barranquilla,Redes sociales,Deporte
+C0877,2026-07-19,Bogotá,Redes sociales,Tecnología
+C0878,2025-11-12,Cali,Redes sociales,Cuidado personal
+C0879,2025-12-12,Bogotá,Redes sociales,Hogar
+C0880,2026-08-24,Bogotá,Búsqueda,Tecnología
+C0881,2026-01-27,Bogotá,Referidos,Tecnología
+C0882,2025-09-25,Bogotá,Redes sociales,Hogar
+C0883,2026-02-13,Bogotá,Orgánico,Papelería
+C0884,2026-09-03,Cali,Redes sociales,Deporte
+C0885,2026-05-08,Bogotá,Redes sociales,Hogar
+C0886,2026-01-07,Barranquilla,Redes sociales,Deporte
+C0887,2025-09-20,Barranquilla,Orgánico,Papelería
+C0888,2026-02-02,Cali,Orgánico,Cuidado personal
+C0889,2026-05-02,Medellín,Redes sociales,Cuidado personal
+C0890,2026-07-19,Bogotá,Redes sociales,Tecnología
+C0891,2025-12-18,Bogotá,Redes sociales,Hogar
+C0892,2025-08-01,Cali,Redes sociales,Hogar
+C0893,2026-08-13,Medellín,Búsqueda,Deporte
+C0894,2026-05-26,Bogotá,Búsqueda,Cuidado personal
+C0895,2026-08-06,Medellín,Búsqueda,Deporte
+C0896,2025-11-28,Cali,Redes sociales,Cuidado personal
+C0897,2026-07-09,Medellín,Referidos,Deporte
+C0898,2026-03-09,Bogotá,Redes sociales,Papelería
+C0899,2025-10-02,Bogotá,Redes sociales,Hogar
+C0900,2026-01-16,Bogotá,Orgánico,Deporte
+C0901,2026-08-24,Cali,Orgánico,Tecnología
+C0902,2026-09-11,Medellín,Orgánico,Cuidado personal
+C0903,2026-05-07,Bogotá,Redes sociales,Deporte
+C0904,2025-10-30,Bogotá,Redes sociales,Tecnología
+C0905,2026-03-30,Medellín,Redes sociales,Cuidado personal
+C0906,2026-05-13,Medellín,Redes sociales,Hogar
+C0907,2025-08-21,Medellín,Redes sociales,Deporte
+C0908,2025-09-14,Cali,Orgánico,Tecnología
+C0909,2026-08-01,Medellín,Orgánico,Tecnología
+C0910,2026-06-05,Bogotá,Búsqueda,Hogar
+C0911,2026-02-19,Bogotá,Búsqueda,Cuidado personal
+C0912,2026-07-13,Barranquilla,Orgánico,Hogar
+C0913,2026-07-12,Bogotá,Orgánico,Deporte
+C0914,2026-04-11,Bogotá,Redes sociales,Deporte
+C0915,2026-07-29,Barranquilla,Búsqueda,Hogar
+C0916,2026-06-17,Bogotá,Redes sociales,Deporte
+C0917,2026-09-23,Medellín,Orgánico,Cuidado personal
+C0918,2025-12-13,Bogotá,Referidos,Papelería
+C0919,2025-11-24,Medellín,Redes sociales,Papelería
+C0920,2026-06-11,Bogotá,Redes sociales,Cuidado personal
+C0921,2026-01-10,Barranquilla,Redes sociales,Papelería
+C0922,2025-12-20,Bogotá,Redes sociales,Hogar
+C0923,2025-12-26,Bogotá,Redes sociales,Tecnología
+C0924,2026-06-13,Medellín,Redes sociales,Deporte
+C0925,2026-03-11,Bogotá,Referidos,Hogar
+C0926,2026-04-12,Bogotá,Referidos,Tecnología
+C0927,2025-11-04,Bogotá,Referidos,Tecnología
+C0928,2026-06-11,Barranquilla,Referidos,Papelería
+C0929,2025-08-13,Cali,Redes sociales,Cuidado personal
+C0930,2025-09-11,Medellín,Redes sociales,Deporte
+C0931,2025-10-27,Bogotá,Redes sociales,Hogar
+C0932,2025-08-27,Cali,Orgánico,Cuidado personal
+C0933,2025-11-02,Cali,Redes sociales,Hogar
+C0934,2025-09-20,Cali,Redes sociales,Papelería
+C0935,2026-04-30,Bogotá,Referidos,Hogar
+C0936,2026-05-31,Medellín,Redes sociales,Cuidado personal
+C0937,2026-02-28,Cali,Orgánico,Deporte
+C0938,2026-02-14,Bogotá,Redes sociales,Deporte
+C0939,2026-07-24,Medellín,Orgánico,Tecnología
+C0940,2026-02-25,Cali,Búsqueda,Papelería
+C0941,2025-08-30,Medellín,Redes sociales,Cuidado personal
+C0942,2026-07-03,Bogotá,Orgánico,Hogar
+C0943,2025-08-08,Bogotá,Referidos,Hogar
+C0944,2025-09-29,Bogotá,Referidos,Papelería
+C0945,2026-07-03,Barranquilla,Búsqueda,Papelería
+C0946,2025-10-13,Bogotá,Redes sociales,Hogar
+C0947,2026-01-07,Bogotá,Redes sociales,Tecnología
+C0948,2025-10-05,Bogotá,Redes sociales,Tecnología
+C0949,2025-11-21,Cali,Referidos,Hogar
+C0950,2026-03-21,Medellín,Búsqueda,Hogar
+C0951,2026-04-20,Bogotá,Redes sociales,Cuidado personal
+C0952,2026-01-08,Bogotá,Redes sociales,Cuidado personal
+C0953,2026-07-13,Bogotá,Búsqueda,Hogar
+C0954,2025-09-16,Bogotá,Búsqueda,Tecnología
+C0955,2025-11-20,Cali,Orgánico,Hogar
+C0956,2026-01-23,Bogotá,Redes sociales,Hogar
+C0957,2026-05-05,Bogotá,Referidos,Papelería
+C0958,2026-06-30,Cali,Redes sociales,Tecnología
+C0959,2026-09-08,Cali,Redes sociales,Cuidado personal
+C0960,2025-09-04,Bogotá,Búsqueda,Cuidado personal
+C0961,2025-12-30,Medellín,Redes sociales,Hogar
+C0962,2026-03-28,Cali,Referidos,Hogar
+C0963,2026-04-23,Cali,Redes sociales,Papelería
+C0964,2026-05-15,Medellín,Orgánico,Tecnología
+C0965,2026-05-24,Barranquilla,Redes sociales,Tecnología
+C0966,2026-07-20,Cali,Referidos,Cuidado personal
+C0967,2026-06-22,Bogotá,Redes sociales,Hogar
+C0968,2025-09-19,Cali,Búsqueda,Papelería
+C0969,2026-07-11,Bogotá,Orgánico,Cuidado personal
+C0970,2026-08-05,Bogotá,Orgánico,Hogar
+C0971,2026-07-06,Cali,Redes sociales,Hogar
+C0972,2025-11-07,Bogotá,Búsqueda,Deporte
+C0973,2026-03-15,Cali,Orgánico,Tecnología
+C0974,2026-05-23,Cali,Referidos,Cuidado personal
+C0975,2025-09-18,Bogotá,Redes sociales,Cuidado personal
+C0976,2026-09-21,Bogotá,Búsqueda,Deporte
+C0977,2025-09-15,Cali,Referidos,Hogar
+C0978,2025-10-02,Medellín,Orgánico,Cuidado personal
+C0979,2026-03-31,Bogotá,Redes sociales,Papelería
+C0980,2026-02-04,Medellín,Búsqueda,Papelería
+C0981,2026-05-13,Bogotá,Redes sociales,Deporte
+C0982,2025-10-16,Bogotá,Referidos,Tecnología
+C0983,2026-08-03,Bogotá,Búsqueda,Papelería
+C0984,2026-06-09,Bogotá,Orgánico,Hogar
+C0985,2025-12-15,Bogotá,Referidos,Hogar
+C0986,2025-11-07,Cali,Redes sociales,Tecnología
+C0987,2025-09-16,Cali,Redes sociales,Tecnología
+C0988,2026-06-26,Bogotá,Referidos,Tecnología
+C0989,2026-01-12,Bogotá,Búsqueda,Hogar
+C0990,2026-07-19,Medellín,Búsqueda,Papelería
+C0991,2025-11-22,Barranquilla,Orgánico,Tecnología
+C0992,2026-06-04,Bogotá,Redes sociales,Tecnología
+C0993,2026-03-19,Bogotá,Redes sociales,Deporte
+C0994,2026-08-29,Cali,Referidos,Cuidado personal
+C0995,2026-07-04,Bogotá,Búsqueda,Cuidado personal
+C0996,2025-12-06,Cali,Búsqueda,Hogar
+C0997,2026-07-16,Bogotá,Orgánico,Hogar
+C0998,2026-02-12,Bogotá,Redes sociales,Cuidado personal
+C0999,2026-09-10,Bogotá,Orgánico,Cuidado personal
+C1000,2026-05-21,Barranquilla,Referidos,Tecnología
+C1001,2026-03-02,Medellín,Redes sociales,Deporte
+C1002,2026-06-16,Bogotá,Búsqueda,Tecnología
+C1003,2026-09-13,Bogotá,Redes sociales,Hogar
+C1004,2025-09-24,Medellín,Búsqueda,Hogar
+C1005,2026-09-12,Medellín,Redes sociales,Papelería
+C1006,2026-04-23,Barranquilla,Orgánico,Hogar
+C1007,2026-03-19,Bogotá,Orgánico,Deporte
+C1008,2026-01-10,Medellín,Búsqueda,Tecnología
+C1009,2026-06-10,Medellín,Redes sociales,Papelería
+C1010,2026-04-26,Bogotá,Redes sociales,Tecnología
+C1011,2026-06-20,Barranquilla,Redes sociales,Deporte
+C1012,2025-12-05,Bogotá,Orgánico,Papelería
+C1013,2025-12-12,Medellín,Orgánico,Deporte
+C1014,2026-05-04,Barranquilla,Redes sociales,Cuidado personal
+C1015,2026-06-04,Bogotá,Redes sociales,Cuidado personal
+C1016,2025-08-03,Cali,Búsqueda,Tecnología
+C1017,2025-10-30,Cali,Redes sociales,Papelería
+C1018,2025-08-30,Cali,Redes sociales,Deporte
+C1019,2025-09-19,Bogotá,Redes sociales,Papelería
+C1020,2026-04-01,Bogotá,Referidos,Tecnología
+C1021,2025-10-10,Cali,Referidos,Deporte
+C1022,2026-05-31,Cali,Búsqueda,Tecnología
+C1023,2026-09-10,Barranquilla,Búsqueda,Papelería
+C1024,2026-04-26,Bogotá,Redes sociales,Cuidado personal
+C1025,2025-11-16,Medellín,Redes sociales,Hogar
+C1026,2025-10-20,Medellín,Búsqueda,Hogar
+C1027,2026-04-01,Bogotá,Búsqueda,Tecnología
+C1028,2026-08-22,Bogotá,Orgánico,Hogar
+C1029,2026-05-05,Bogotá,Redes sociales,Hogar
+C1030,2025-08-17,Medellín,Referidos,Tecnología
+C1031,2025-12-01,Bogotá,Redes sociales,Tecnología
+C1032,2025-09-09,Bogotá,Referidos,Cuidado personal
+C1033,2025-09-29,Barranquilla,Referidos,Papelería
+C1034,2026-06-15,Bogotá,Búsqueda,Cuidado personal
+C1035,2026-01-19,Cali,Referidos,Cuidado personal
+C1036,2025-11-05,Bogotá,Redes sociales,Papelería
+C1037,2026-06-13,Cali,Referidos,Cuidado personal
+C1038,2025-09-14,Bogotá,Orgánico,Papelería
+C1039,2026-09-11,Bogotá,Referidos,Papelería
+C1040,2026-01-20,Cali,Redes sociales,Tecnología
+C1041,2025-10-16,Bogotá,Referidos,Hogar
+C1042,2026-06-07,Bogotá,Redes sociales,Tecnología
+C1043,2026-05-28,Cali,Búsqueda,Tecnología
+C1044,2026-09-21,Cali,Orgánico,Hogar
+C1045,2025-12-01,Bogotá,Referidos,Deporte
+C1046,2026-02-28,Cali,Redes sociales,Hogar
+C1047,2025-08-11,Bogotá,Redes sociales,Papelería
+C1048,2026-09-20,Bogotá,Referidos,Tecnología
+C1049,2026-02-23,Medellín,Referidos,Papelería
+C1050,2026-01-24,Bogotá,Búsqueda,Cuidado personal
+C1051,2026-06-26,Bogotá,Redes sociales,Cuidado personal
+C1052,2025-08-30,Cali,Orgánico,Cuidado personal
+C1053,2025-11-29,Medellín,Redes sociales,Hogar
+C1054,2026-09-09,Bogotá,Referidos,Hogar
+C1055,2026-09-01,Barranquilla,Redes sociales,Hogar
+C1056,2026-01-04,Medellín,Referidos,Cuidado personal
+C1057,2026-07-16,Bogotá,Redes sociales,Tecnología
+C1058,2025-09-02,Bogotá,Referidos,Papelería
+C1059,2025-08-21,Bogotá,Redes sociales,Cuidado personal
+C1060,2025-10-01,Bogotá,Búsqueda,Tecnología
+C1061,2025-09-01,Bogotá,Orgánico,Hogar
+C1062,2026-09-11,Bogotá,Redes sociales,Tecnología
+C1063,2025-09-26,Medellín,Búsqueda,Papelería
+C1064,2026-08-08,Medellín,Referidos,Tecnología
+C1065,2026-03-16,Bogotá,Orgánico,Hogar
+C1066,2026-01-20,Medellín,Búsqueda,Deporte
+C1067,2026-03-06,Bogotá,Orgánico,Cuidado personal
+C1068,2026-06-03,Bogotá,Orgánico,Tecnología
+C1069,2025-11-25,Medellín,Redes sociales,Cuidado personal
+C1070,2026-01-02,Bogotá,Redes sociales,Cuidado personal
+C1071,2025-09-16,Bogotá,Referidos,Hogar
+C1072,2025-08-18,Bogotá,Búsqueda,Tecnología
+C1073,2026-04-30,Medellín,Redes sociales,Hogar
+C1074,2026-05-04,Cali,Referidos,Papelería
+C1075,2026-03-01,Medellín,Referidos,Cuidado personal
+C1076,2026-07-02,Barranquilla,Redes sociales,Tecnología
+C1077,2026-05-13,Bogotá,Orgánico,Tecnología
+C1078,2026-07-19,Medellín,Redes sociales,Papelería
+C1079,2026-09-04,Medellín,Redes sociales,Deporte
+C1080,2026-02-17,Bogotá,Búsqueda,Tecnología
+C1081,2025-10-02,Barranquilla,Redes sociales,Tecnología
+C1082,2026-09-04,Medellín,Búsqueda,Deporte
+C1083,2026-04-12,Bogotá,Referidos,Hogar
+C1084,2026-01-11,Medellín,Orgánico,Cuidado personal
+C1085,2025-08-18,Bogotá,Referidos,Cuidado personal
+C1086,2025-12-16,Medellín,Orgánico,Deporte
+C1087,2025-11-19,Bogotá,Redes sociales,Deporte
+C1088,2025-08-04,Medellín,Búsqueda,Papelería
+C1089,2026-04-10,Barranquilla,Referidos,Tecnología
+C1090,2026-07-28,Medellín,Redes sociales,Tecnología
+C1091,2026-09-02,Bogotá,Referidos,Tecnología
+C1092,2026-01-22,Bogotá,Redes sociales,Papelería
+C1093,2025-10-30,Bogotá,Redes sociales,Tecnología
+C1094,2026-03-27,Bogotá,Orgánico,Deporte
+C1095,2025-11-14,Cali,Redes sociales,Hogar
+C1096,2026-06-11,Cali,Orgánico,Tecnología
+C1097,2025-08-14,Cali,Orgánico,Cuidado personal
+C1098,2026-01-16,Bogotá,Referidos,Hogar
+C1099,2026-09-05,Cali,Referidos,Papelería
+C1100,2025-10-22,Barranquilla,Referidos,Cuidado personal
+C1101,2026-05-12,Cali,Redes sociales,Deporte
+C1102,2026-04-29,Cali,Búsqueda,Tecnología
+C1103,2026-04-29,Cali,Redes sociales,Papelería
+C1104,2025-08-09,Bogotá,Orgánico,Tecnología
+C1105,2026-03-11,Medellín,Redes sociales,Cuidado personal
+C1106,2026-01-30,Bogotá,Orgánico,Cuidado personal
+C1107,2026-05-18,Medellín,Redes sociales,Cuidado personal
+C1108,2025-08-31,Bogotá,Referidos,Deporte
+C1109,2025-09-24,Bogotá,Búsqueda,Cuidado personal
+C1110,2026-04-02,Bogotá,Búsqueda,Deporte
+C1111,2025-10-08,Bogotá,Redes sociales,Cuidado personal
+C1112,2026-04-16,Medellín,Búsqueda,Hogar
+C1113,2025-10-23,Bogotá,Redes sociales,Tecnología
+C1114,2026-07-21,Medellín,Búsqueda,Tecnología
+C1115,2026-06-21,Barranquilla,Orgánico,Cuidado personal
+C1116,2025-09-27,Medellín,Búsqueda,Hogar
+C1117,2025-12-28,Bogotá,Redes sociales,Deporte
+C1118,2026-04-30,Bogotá,Redes sociales,Deporte
+C1119,2025-12-31,Bogotá,Referidos,Deporte
+C1120,2025-12-21,Bogotá,Referidos,Tecnología
+C1121,2026-07-18,Medellín,Redes sociales,Papelería
+C1122,2026-06-15,Bogotá,Referidos,Deporte
+C1123,2026-03-20,Bogotá,Referidos,Hogar
+C1124,2025-12-16,Barranquilla,Orgánico,Tecnología
+C1125,2026-03-18,Medellín,Búsqueda,Papelería
+C1126,2026-06-29,Medellín,Búsqueda,Tecnología
+C1127,2026-06-30,Bogotá,Referidos,Tecnología
+C1128,2026-04-12,Bogotá,Búsqueda,Papelería
+C1129,2026-04-12,Bogotá,Redes sociales,Hogar
+C1130,2026-05-16,Bogotá,Búsqueda,Deporte
+C1131,2026-02-17,Bogotá,Referidos,Papelería
+C1132,2026-09-17,Bogotá,Redes sociales,Tecnología
+C1133,2025-09-11,Bogotá,Orgánico,Cuidado personal
+C1134,2025-09-05,Bogotá,Referidos,Deporte
+C1135,2026-01-20,Bogotá,Redes sociales,Hogar
+C1136,2025-12-22,Medellín,Referidos,Papelería
+C1137,2026-03-19,Bogotá,Redes sociales,Papelería
+C1138,2025-12-03,Cali,Búsqueda,Tecnología
+C1139,2026-05-31,Bogotá,Búsqueda,Tecnología
+C1140,2026-07-06,Bogotá,Búsqueda,Tecnología
+C1141,2025-11-24,Cali,Referidos,Cuidado personal
+C1142,2025-10-14,Bogotá,Referidos,Tecnología
+C1143,2025-12-27,Cali,Redes sociales,Cuidado personal
+C1144,2025-12-24,Cali,Redes sociales,Tecnología
+C1145,2025-11-13,Cali,Redes sociales,Hogar
+C1146,2025-12-09,Cali,Redes sociales,Cuidado personal
+C1147,2025-09-30,Bogotá,Orgánico,Tecnología
+C1148,2026-04-28,Bogotá,Redes sociales,Deporte
+C1149,2025-10-10,Bogotá,Orgánico,Papelería
+C1150,2025-12-11,Barranquilla,Búsqueda,Hogar
+C1151,2025-12-03,Barranquilla,Búsqueda,Tecnología
+C1152,2025-11-12,Bogotá,Referidos,Hogar
+C1153,2026-06-04,Barranquilla,Referidos,Cuidado personal
+C1154,2026-03-03,Bogotá,Redes sociales,Tecnología
+C1155,2026-07-05,Medellín,Búsqueda,Deporte
+C1156,2026-05-26,Barranquilla,Búsqueda,Deporte
+C1157,2026-05-17,Bogotá,Referidos,Hogar
+C1158,2025-11-18,Cali,Búsqueda,Deporte
+C1159,2026-05-22,Bogotá,Referidos,Hogar
+C1160,2025-11-21,Medellín,Referidos,Deporte
+C1161,2025-09-19,Bogotá,Referidos,Cuidado personal
+C1162,2026-05-02,Bogotá,Redes sociales,Deporte
+C1163,2026-03-01,Cali,Redes sociales,Deporte
+C1164,2025-08-12,Bogotá,Referidos,Cuidado personal
+C1165,2026-05-23,Bogotá,Orgánico,Hogar
+C1166,2026-05-07,Bogotá,Referidos,Cuidado personal
+C1167,2025-09-23,Bogotá,Referidos,Tecnología
+C1168,2026-07-30,Cali,Redes sociales,Deporte
+C1169,2026-03-20,Medellín,Referidos,Cuidado personal
+C1170,2026-08-24,Barranquilla,Redes sociales,Cuidado personal
+C1171,2025-10-25,Bogotá,Redes sociales,Cuidado personal
+C1172,2025-11-13,Barranquilla,Referidos,Papelería
+C1173,2026-03-13,Medellín,Redes sociales,Tecnología
+C1174,2026-08-06,Cali,Orgánico,Hogar
+C1175,2026-01-04,Medellín,Orgánico,Papelería
+C1176,2025-11-11,Bogotá,Orgánico,Tecnología
+C1177,2025-10-10,Bogotá,Búsqueda,Papelería
+C1178,2025-11-03,Medellín,Referidos,Deporte
+C1179,2025-08-31,Medellín,Referidos,Deporte
+C1180,2025-09-17,Bogotá,Búsqueda,Cuidado personal
+C1181,2026-01-09,Bogotá,Redes sociales,Cuidado personal
+C1182,2026-04-16,Barranquilla,Redes sociales,Deporte
+C1183,2026-06-10,Medellín,Redes sociales,Tecnología
+C1184,2026-09-05,Medellín,Búsqueda,Hogar
+C1185,2025-08-09,Medellín,Redes sociales,Deporte
+C1186,2025-11-25,Cali,Redes sociales,Tecnología
+C1187,2026-03-12,Cali,Orgánico,Hogar
+C1188,2026-01-04,Bogotá,Redes sociales,Cuidado personal
+C1189,2026-08-11,Cali,Orgánico,Cuidado personal
+C1190,2025-12-22,Bogotá,Redes sociales,Cuidado personal
+C1191,2025-08-20,Bogotá,Orgánico,Deporte
+C1192,2026-01-11,Medellín,Redes sociales,Hogar
+C1193,2025-09-01,Bogotá,Referidos,Deporte
+C1194,2026-09-20,Bogotá,Búsqueda,Tecnología
+C1195,2026-07-23,Bogotá,Referidos,Hogar
+C1196,2026-08-12,Medellín,Redes sociales,Hogar
+C1197,2025-11-13,Bogotá,Referidos,Deporte
+C1198,2026-04-02,Bogotá,Orgánico,Tecnología
+C1199,2026-08-31,Bogotá,Redes sociales,Deporte
+C1200,2025-12-28,Cali,Redes sociales,Hogar
+C1201,2025-09-06,Cali,Redes sociales,Hogar
+C1202,2026-05-16,Bogotá,Búsqueda,Deporte
+C1203,2026-04-13,Medellín,Orgánico,Hogar
+C1204,2026-01-12,Cali,Referidos,Deporte
+C1205,2026-03-07,Medellín,Referidos,Tecnología
+C1206,2026-03-02,Barranquilla,Redes sociales,Hogar
+C1207,2026-09-08,Bogotá,Búsqueda,Cuidado personal
+C1208,2026-03-19,Bogotá,Búsqueda,Hogar
+C1209,2025-12-29,Medellín,Referidos,Deporte
+C1210,2025-08-24,Cali,Redes sociales,Tecnología
+C1211,2025-11-14,Bogotá,Referidos,Hogar
+C1212,2026-02-21,Bogotá,Búsqueda,Tecnología
+C1213,2025-08-22,Bogotá,Orgánico,Hogar
+C1214,2026-03-01,Bogotá,Redes sociales,Papelería
+C1215,2025-10-29,Medellín,Referidos,Tecnología
+C1216,2025-11-28,Medellín,Referidos,Tecnología
+C1217,2025-12-07,Bogotá,Redes sociales,Hogar
+C1218,2025-12-31,Barranquilla,Búsqueda,Deporte
+C1219,2026-07-29,Cali,Redes sociales,Tecnología
+C1220,2026-04-06,Medellín,Orgánico,Tecnología
+C1221,2026-09-03,Cali,Búsqueda,Cuidado personal
+C1222,2026-09-13,Bogotá,Orgánico,Hogar
+C1223,2025-10-29,Medellín,Búsqueda,Hogar
+C1224,2026-07-31,Medellín,Búsqueda,Papelería
+C1225,2026-07-27,Cali,Referidos,Tecnología
+C1226,2025-08-09,Bogotá,Orgánico,Papelería
+C1227,2026-05-21,Medellín,Búsqueda,Cuidado personal
+C1228,2025-09-20,Medellín,Búsqueda,Tecnología
+C1229,2026-04-14,Medellín,Orgánico,Hogar
+C1230,2025-08-22,Bogotá,Redes sociales,Cuidado personal
+C1231,2026-07-31,Medellín,Redes sociales,Cuidado personal
+C1232,2026-04-18,Cali,Redes sociales,Hogar
+C1233,2025-08-17,Medellín,Redes sociales,Cuidado personal
+C1234,2025-10-25,Medellín,Redes sociales,Cuidado personal
+C1235,2026-02-22,Bogotá,Redes sociales,Tecnología
+C1236,2026-07-05,Cali,Redes sociales,Deporte
+C1237,2026-03-02,Cali,Redes sociales,Papelería
+C1238,2026-07-12,Medellín,Orgánico,Tecnología
+C1239,2026-01-07,Bogotá,Redes sociales,Hogar
+C1240,2026-08-18,Cali,Búsqueda,Deporte
+C1241,2025-09-09,Bogotá,Referidos,Cuidado personal
+C1242,2025-12-19,Bogotá,Redes sociales,Tecnología
+C1243,2025-10-07,Medellín,Redes sociales,Papelería
+C1244,2026-08-13,Barranquilla,Redes sociales,Papelería
+C1245,2026-03-12,Cali,Referidos,Cuidado personal
+C1246,2025-09-06,Bogotá,Orgánico,Tecnología
+C1247,2026-02-04,Bogotá,Referidos,Hogar
+C1248,2025-09-12,Bogotá,Búsqueda,Deporte
+C1249,2025-11-25,Bogotá,Referidos,Cuidado personal
+C1250,2025-09-22,Cali,Referidos,Hogar
+C1251,2026-02-17,Bogotá,Búsqueda,Hogar
+C1252,2025-12-18,Medellín,Búsqueda,Hogar
+C1253,2025-12-28,Medellín,Búsqueda,Hogar
+C1254,2026-07-27,Cali,Referidos,Hogar
+C1255,2026-04-16,Medellín,Referidos,Tecnología
+C1256,2026-04-03,Medellín,Referidos,Tecnología
+C1257,2026-03-30,Cali,Referidos,Deporte
+C1258,2025-11-12,Medellín,Orgánico,Tecnología
+C1259,2026-05-03,Bogotá,Orgánico,Tecnología
+C1260,2025-10-12,Bogotá,Referidos,Cuidado personal
+C1261,2025-11-04,Bogotá,Referidos,Deporte
+C1262,2026-07-01,Barranquilla,Búsqueda,Deporte
+C1263,2026-06-29,Bogotá,Redes sociales,Tecnología
+C1264,2026-08-01,Barranquilla,Redes sociales,Hogar
+C1265,2026-03-17,Cali,Referidos,Tecnología
+C1266,2026-04-28,Cali,Referidos,Cuidado personal
+C1267,2026-01-15,Cali,Orgánico,Tecnología
+C1268,2026-06-19,Bogotá,Búsqueda,Tecnología
+C1269,2026-01-21,Bogotá,Redes sociales,Tecnología
+C1270,2026-09-02,Medellín,Redes sociales,Tecnología
+C1271,2026-02-03,Cali,Redes sociales,Hogar
+C1272,2026-03-12,Barranquilla,Redes sociales,Hogar
+C1273,2025-08-24,Medellín,Redes sociales,Deporte
+C1274,2026-09-20,Medellín,Redes sociales,Papelería
+C1275,2026-07-17,Bogotá,Orgánico,Papelería
+C1276,2026-01-20,Bogotá,Referidos,Deporte
+C1277,2026-04-05,Medellín,Redes sociales,Cuidado personal
+C1278,2025-12-27,Medellín,Redes sociales,Tecnología
+C1279,2026-02-23,Medellín,Orgánico,Hogar
+C1280,2026-07-05,Medellín,Orgánico,Tecnología
+C1281,2025-10-21,Bogotá,Redes sociales,Deporte
+C1282,2025-08-21,Medellín,Redes sociales,Cuidado personal
+C1283,2025-11-07,Barranquilla,Búsqueda,Hogar
+C1284,2026-08-13,Bogotá,Referidos,Hogar
+C1285,2025-12-20,Bogotá,Orgánico,Tecnología
+C1286,2026-07-08,Medellín,Orgánico,Hogar
+C1287,2026-06-25,Bogotá,Búsqueda,Cuidado personal
+C1288,2026-09-14,Bogotá,Búsqueda,Cuidado personal
+C1289,2025-09-26,Bogotá,Búsqueda,Deporte
+C1290,2026-01-15,Bogotá,Referidos,Deporte
+C1291,2026-07-11,Bogotá,Redes sociales,Tecnología
+C1292,2026-03-25,Bogotá,Redes sociales,Papelería
+C1293,2025-10-16,Medellín,Orgánico,Tecnología
+C1294,2026-05-17,Bogotá,Orgánico,Papelería
+C1295,2026-01-31,Cali,Búsqueda,Hogar
+C1296,2026-09-05,Medellín,Búsqueda,Tecnología
+C1297,2026-01-04,Medellín,Redes sociales,Papelería
+C1298,2026-01-09,Barranquilla,Redes sociales,Tecnología
+C1299,2025-11-28,Cali,Orgánico,Hogar
+C1300,2026-05-21,Bogotá,Redes sociales,Deporte
+C1301,2026-03-04,Bogotá,Referidos,Hogar
+C1302,2026-04-19,Medellín,Redes sociales,Hogar
+C1303,2026-03-04,Medellín,Redes sociales,Hogar
+C1304,2026-05-10,Cali,Búsqueda,Cuidado personal
+C1305,2026-02-24,Barranquilla,Redes sociales,Tecnología
+C1306,2026-05-24,Medellín,Redes sociales,Cuidado personal
+C1307,2025-08-03,Medellín,Búsqueda,Papelería
+C1308,2025-08-09,Bogotá,Referidos,Deporte
+C1309,2025-11-10,Barranquilla,Búsqueda,Papelería
+C1310,2026-07-07,Cali,Orgánico,Deporte
+C1311,2025-11-09,Bogotá,Referidos,Hogar
+C1312,2026-03-24,Bogotá,Referidos,Cuidado personal
+C1313,2026-04-21,Barranquilla,Orgánico,Cuidado personal
+C1314,2026-02-18,Bogotá,Redes sociales,Deporte
+C1315,2025-12-05,Medellín,Redes sociales,Tecnología
+C1316,2025-08-21,Cali,Redes sociales,Cuidado personal
+C1317,2026-04-13,Medellín,Búsqueda,Deporte
+C1318,2026-05-23,Bogotá,Redes sociales,Tecnología
+C1319,2026-06-23,Medellín,Búsqueda,Hogar
+C1320,2026-01-19,Medellín,Orgánico,Hogar
+C1321,2026-04-12,Bogotá,Redes sociales,Deporte
+C1322,2026-08-06,Medellín,Referidos,Hogar
+C1323,2026-05-10,Cali,Referidos,Papelería
+C1324,2026-09-17,Medellín,Orgánico,Tecnología
+C1325,2026-06-03,Bogotá,Redes sociales,Deporte
+C1326,2025-10-09,Bogotá,Referidos,Papelería
+C1327,2026-04-13,Bogotá,Redes sociales,Tecnología
+C1328,2026-05-16,Medellín,Búsqueda,Cuidado personal
+C1329,2025-10-04,Bogotá,Redes sociales,Tecnología
+C1330,2026-03-19,Bogotá,Redes sociales,Hogar
+C1331,2026-06-02,Cali,Búsqueda,Hogar
+C1332,2026-04-10,Cali,Orgánico,Cuidado personal
+C1333,2025-08-11,Bogotá,Referidos,Tecnología
+C1334,2025-08-13,Bogotá,Referidos,Hogar
+C1335,2025-11-10,Medellín,Búsqueda,Deporte
+C1336,2026-03-31,Barranquilla,Redes sociales,Tecnología
+C1337,2025-12-09,Cali,Redes sociales,Tecnología
+C1338,2025-12-06,Barranquilla,Redes sociales,Tecnología
+C1339,2026-03-01,Bogotá,Referidos,Hogar
+C1340,2026-03-02,Bogotá,Orgánico,Cuidado personal
+C1341,2026-05-04,Cali,Redes sociales,Deporte
+C1342,2025-08-25,Medellín,Búsqueda,Papelería
+C1343,2026-06-07,Medellín,Orgánico,Cuidado personal
+C1344,2025-11-29,Cali,Orgánico,Hogar
+C1345,2026-01-08,Bogotá,Redes sociales,Hogar
+C1346,2026-05-12,Bogotá,Redes sociales,Hogar
+C1347,2025-12-10,Bogotá,Referidos,Tecnología
+C1348,2026-08-21,Medellín,Referidos,Papelería
+C1349,2025-10-16,Bogotá,Orgánico,Hogar
+C1350,2026-02-02,Medellín,Redes sociales,Cuidado personal
