@@ -48,3 +48,11 @@ fig = px.line(mensual,x = 'mes',y = 'pedidos',markers = True)
 fig.update_layout(xaxis_title = 'Mes',yaxis_title = 'Pedidos')
 st.plotly_chart(fig,width = 'stretch')
 
+#Punto 3
+tabla = filtrado.groupby(['canal_adquisicion','segmento']).size().reset_index(name = 'clientes')
+tabla['porcentaje'] = tabla['clientes']/tabla.groupby('canal_adquisicion')['clientes'].transform('sum')
+fig = px.bar(tabla,x = 'canal_adquisicion',y = 'porcentaje',color = 'segmento',text = 'porcentaje',
+             category_orders = {'segmento':ORDEN_SEGMENTOS},hover_data = ['clientes'])
+fig.update_traces(texttemplate = '%{text:.0%}')
+fig.update_layout(barmode = 'stack',xaxis_title = 'Canal de adquisición',yaxis_title = '% de clientes del canal',yaxis_tickformat = '.0%')
+st.plotly_chart(fig,width = 'stretch')
