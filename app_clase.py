@@ -16,17 +16,19 @@ clientes, pedidos, perfil = obtener_datos()
 
 ciudades = st.sidebar.multiselect('Ciudad',sorted(perfil['ciudad'].unique()), default=sorted(perfil['ciudad'].unique()))
 canales = st.sidebar.multiselect('Canal de adquisición',sorted(perfil['canal_adquisicion'].unique()),default = sorted(perfil['canal_adquisicion'].unique()))
+segmentos = st.sidebar.multiselect('Segmento',ORDEN_SEGMENTOS,default=ORDEN_SEGMENTOS)
 filtrado = perfil.loc[
     perfil['ciudad'].isin(ciudades) &
-    perfil['canal_adquisicion'].isin(canales)
+    perfil['canal_adquisicion'].isin(canales) &
+    perfil['segmento'].isin(segmentos)
 ].copy()
-
-a, b, c, d = st.columns(4)
+a, b, c, d, e = st.columns(5)
 m = kpis(filtrado)
 a.metric('Clientes registrados',f'{m['clientes_registrados']:,}',border = True)
 b.metric('Clientes compradores',f'{m['clientes_compradores']:,}',border = True)
 c.metric('Ingreso neto (COP)',f'${m['ingreso_neto_cop']/1e6:,.1f} M',border = True)
 d.metric('Ticket promedio (COP)',f'${m['ticket_promedio']:,.0f}',border = True)
+e.metric('Tasa de recompra',f'{m["tasa_recompra"]:.1%}',border=True)
 
 tabla = filtrado.groupby('segmento').size().reset_index(name = 'clientes')
 fig = px.bar(tabla,x = 'segmento',y = 'clientes',text = 'clientes',
@@ -45,3 +47,4 @@ mensual = pedidos_f.groupby('mes',as_index = False).agg(pedidos=('id_pedido','co
 fig = px.line(mensual,x = 'mes',y = 'pedidos',markers = True)
 fig.update_layout(xaxis_title = 'Mes',yaxis_title = 'Pedidos')
 st.plotly_chart(fig,width = 'stretch')
+
